@@ -1,3 +1,7 @@
+# WHAT I DO IN THIS PROJECT
+In this project I learned how I can build YT clone using React, MUI and RapidAPI;
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
